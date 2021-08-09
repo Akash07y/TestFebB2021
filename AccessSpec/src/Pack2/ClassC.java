@@ -6,7 +6,7 @@ import Pack1.ClassB;
 public class ClassC {
 	
 	public  void test() {
-		System.out.println("Super Class");
+		System.out.println("Changes for git");
 	}
 
 	public static void demo() {
