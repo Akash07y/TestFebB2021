@@ -14,7 +14,7 @@ public abstract class TestClass {
 	}
 	
 	public static void test123() {
-		System.out.println("static test123");
+		System.out.println(" test123");
 	}
 
 }
