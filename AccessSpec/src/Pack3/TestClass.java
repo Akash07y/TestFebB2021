@@ -10,7 +10,7 @@ public abstract class TestClass {
 	public abstract void test() ;
 	
 	public void demo() {
-		System.out.println("demo");
+		System.out.println("master branch new code");
 	}
 	
 	public static void test123() {
